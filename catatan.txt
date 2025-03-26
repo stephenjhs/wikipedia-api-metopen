@@ -1,0 +1,17 @@
+2.5 desain produk
+
+3.1 Tempat dan jadwal
+3.2 subjek
+3.3 objek
+3.4 jenis penelitian
+3.5 responden
+3.6 model pengembangan
+3.7 prosedur penelitian
+3.8 rancangan produk
+3.9 teknik analisis data
+
+
+
+2.5 Desain Produk
+Desain produk penelitian ini dirancang dengan tampilan modern dan interaktif untuk memberikan pengalaman pengguna yang menarik dalam menjelajahi artikel dari Wikipedia. Antarmuka utama menampilkan kartu visual dengan gambar, judul, deskripsi singkat, serta tombol interaksi seperti like, dan read more. Pengguna dapat menggulir halaman untuk melihat artikel berikutnya secara dinamis, tanpa perlu memuat ulang halaman. Selain itu, fitur perubahan bahasa disediakan agar pengguna dapat mengakses konten dalam berbagai bahasa sesuai preferensi mereka. Desain ini dibuat responsif agar dapat diakses dengan baik melalui perangkat desktop maupun mobile, memastikan kemudahan navigasi dan kenyamanan dalam membaca informasi. Berikut adalah tampilan desain/konsep produk yang akan dikembangkan oleh peneliti:
+Tampilan Halaman Utama
